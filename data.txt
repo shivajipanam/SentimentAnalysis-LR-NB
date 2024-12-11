@@ -1,0 +1,2 @@
+1. Download data from  https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
+2. Put the validation and training files in the same folder as this project
